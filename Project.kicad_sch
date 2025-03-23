@@ -1,5 +1,23 @@
 (kicad_sch (version 20230121) (generator eeschema)
+
+  (uuid 17758c82-f715-4af2-8495-50ca19713f99)
+
   (paper "A4")
-  (lib_symbols)
-  (symbol_instances)
+
+  (title_block
+    (title "Design Project")
+    (date "2025-03-23")
+    (rev "V0")
+    (company "Univeristy Of Cape Town")
+    (comment 1 "Author 2: Melokuhle Bango (BNGMEL003)")
+    (comment 2 "Author 1: Branden Nkhahle (NKHTLO001)")
+  )
+
+  (lib_symbols
+  )
+
+
+  (sheet_instances
+    (path "/" (page "1"))
+  )
 )
