@@ -9,6 +9,12 @@ This repository contains the KiCad project files for the power system of a Micro
 - I2C battery monitoring (INA219)
 - Compact 82x60mm PCB design
 
+## Download Final Project Files 
+Download FINAL.zip for the complete set of manufacturing files including:
+- Gerber files for PCB fabrication
+- Bill of Materials (BOM)
+- Kicad project file 
+
 ## Contributors
 - Branden Nkhahle (NKHTLO001)
 - Melokuhle Bango (BNGMEL003)
